@@ -1,0 +1,16 @@
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\Ch02Ex03Numbers.exe
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\Ch02Ex03Numbers.deps.json
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\Ch02Ex03Numbers.runtimeconfig.json
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\Ch02Ex03Numbers.runtimeconfig.dev.json
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\Ch02Ex03Numbers.dll
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\ref\Ch02Ex03Numbers.dll
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\bin\Debug\net5.0\Ch02Ex03Numbers.pdb
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.csprojAssemblyReference.cache
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.AssemblyInfoInputs.cache
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.AssemblyInfo.cs
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.csproj.CoreCompileInputs.cache
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.dll
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\ref\Ch02Ex03Numbers.dll
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.pdb
+C:\Users\pixel\Desktop\Ch02Ex03Numbers\Ch02Ex03Numbers\obj\Debug\net5.0\Ch02Ex03Numbers.genruntimeconfig.cache
